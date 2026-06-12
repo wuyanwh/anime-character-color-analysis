@@ -24,7 +24,8 @@ anime-character-color-analysis/
 ├── docs/
 │   ├── original_ppt/
 │   │   └── 动漫角色发色瞳色分析.pptx
-│   └── 个人案例总结.md
+│   ├── 个人案例总结.md
+│   └── 小组案例报告_动漫角色发色瞳色关联分析.pdf
 ├── models/
 │   └── README.md
 ├── runtime/
